@@ -12,7 +12,7 @@ SA-MP 0.3.DL-R1 ve 0.3.7 sürümleri için özel olarak geliştirilmiş, perform
     *   Sistem RAM kapasitesini otomatik tarayarak oyunun akış belleği limitini güvenli şekilde (512MB - 1.5GB) yükseltir.
     *   Sunucuya özel haritalar yüklenirken oluşan anlık drop, takılma ve "invisible textures" sorunlarını tamamen çözer.
 *   **Discord Rich Presence (RPC):**
-    *   Profilinizde gerçek zamanlı IP, Port, Kullanıcı Adı ve Sunucu İsmini gösterir.
+    *   Profilinizde gerçek zamanlı IP, Port ve Sunucu İsmini gösterir (Kullanıcı adı gizlilik amacıyla gösterilmez).
     *   Sunucudaki **gerçek** aktif oyuncu sayısını ve maksimum oyuncu limitini (UDP Query ile) doğru şekilde yansıtır.
 *   **Otomatik Güncelleme (Auto-Updater):**
     *   Siz oyundayken yeni bir güncelleme çıktığında eklentiyi arka planda asenkron olarak otomatik günceller.
@@ -29,3 +29,8 @@ SA-MP 0.3.DL-R1 ve 0.3.7 sürümleri için özel olarak geliştirilmiş, perform
 
 1. Deponun ana dizininde bulunan **`FIX SAMP.asi`** dosyasını indirin.
 2. İndirdiğiniz dosyayı GTA San Andreas oyununuzun ana dizinine atın. (Eğer ASI Loader yüklü değilse, oyuna girmeden önce bir ASI Loader kurun).
+
+## 📅 Son Güncelleme
+*   **Tarih:** 29 Haziran 2026
+*   **Sürüm:** v1.0.0
+
