@@ -1,4 +1,4 @@
-# FIX SAMP (ASI Plugin) - v1.0.5
+# FIX SAMP (ASI Plugin) - v1.0.6
 
 SA-MP 0.3.DL-R1 ve 0.3.7 sürümleri için geliştirilmiş nihai performans ve kararlılık eklentisidir.
 
@@ -19,5 +19,5 @@ SA-MP 0.3.DL-R1 ve 0.3.7 sürümleri için geliştirilmiş nihai performans ve k
 2. İndirdiğiniz dosyayı GTA San Andreas oyununuzun ana dizinine atın.
 
 ## 📅 Son Güncelleme
-*   **Tarih:** 30 Haziran 2026
-*   **Sürüm:** v1.0.5
+*   **Tarih:** 1 Temmuz 2026
+*   **Sürüm:** v1.0.6
