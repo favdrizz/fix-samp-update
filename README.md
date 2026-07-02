@@ -1,4 +1,4 @@
-# FIX SAMP (ASI Plugin) - v1.0.6
+# FIX SAMP (ASI Plugin) - v1.0.7
 
 SA-MP 0.3.DL-R1 ve 0.3.7 sürümleri için geliştirilmiş nihai performans ve kararlılık eklentisidir.
 
@@ -12,6 +12,7 @@ SA-MP 0.3.DL-R1 ve 0.3.7 sürümleri için geliştirilmiş nihai performans ve k
 *   Yüksek FPS Şasi Sallanma Düzeltmesi (Chassis Shake Fix)
 *   Arayüz ve Textdraw Gizleyici (HUD Hider)
 *   Bölgesel Ayar Çökmeleri Düzeltmesi (Locale Invariant Fix)
+*   BASS.dll Ses Akışı Çift Çalma/Çökme Düzeltmesi (BASS Stream Fix)
 
 ## 📦 Kurulum
 
@@ -19,5 +20,5 @@ SA-MP 0.3.DL-R1 ve 0.3.7 sürümleri için geliştirilmiş nihai performans ve k
 2. İndirdiğiniz dosyayı GTA San Andreas oyununuzun ana dizinine atın.
 
 ## 📅 Son Güncelleme
-*   **Tarih:** 1 Temmuz 2026
-*   **Sürüm:** v1.0.6
+*   **Tarih:** 3 Temmuz 2026
+*   **Sürüm:** v1.0.7
