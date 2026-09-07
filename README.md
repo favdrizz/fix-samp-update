@@ -1,4 +1,4 @@
-# FIX SAMP (ASI Plugin) - v1.0.9
+# FIX SAMP (ASI Plugin) - v1.0.10
 
 SA-MP 0.3.DL-R1, 0.3.7 (R1-R5) ve open.mp sürümleri için geliştirilmiş nihai performans, uyumluluk ve kararlılık eklentisidir.
 
@@ -32,4 +32,4 @@ SA-MP 0.3.DL-R1, 0.3.7 (R1-R5) ve open.mp sürümleri için geliştirilmiş niha
 
 ## 📅 Son Güncelleme
 *   **Tarih:** 7 Eylül 2026
-*   **Sürüm:** v1.0.9
+*   **Sürüm:** v1.0.10
